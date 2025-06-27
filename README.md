@@ -119,8 +119,8 @@ Let’s say you want to generate leads for **digital marketing agencies** in the
 If you have questions, feature requests, or would like to collaborate:
 
 **👤 Ahmad Raza**
-📧 [ranaahmadraza7863@gmail.com](mailto:ranaahmadraza7863@gmail.com)
-🌐 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ahmad-raza-403bbd0278/)) 
+📧 [ranaahmadraza7863@gmail.com](mailto:ranaahmadraza7863@gmail.com) 
+🌐 [LinkedIn](https://www.linkedin.com/in/ahmad-raza-403bbd0278/)
 
 ---
 
