@@ -6,7 +6,7 @@ import re
 
 # Load environment variables
 load_dotenv()
-APIFY_TOKEN = apify_api_1CytKtqxZGWUiwfkXeCk0Y6BE9AyHf3ChxAV
+APIFY_TOKEN = os.getenv("APIFY_API_TOKEN")
 
 if not APIFY_TOKEN:
     st.error("Missing APIFY_API_TOKEN in .env")
