@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import os
 from apify_client import ApifyClient
+from dotenv import load_dotenv
+
 import re
 
 # Load environment variables
